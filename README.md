@@ -1,4 +1,4 @@
-# BVAT
+# BVAT (ICML2019 workshop paper)
 Code for ["Batch Virtual Adversarial Training for Graph Convolutional Networks"](https://graphreason.github.io/papers/3.pdf) which is based on the original implementation of [GCN](https://github.com/tkipf/gcn).
 
 # Requirements
